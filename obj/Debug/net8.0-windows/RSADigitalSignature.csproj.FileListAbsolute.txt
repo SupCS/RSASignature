@@ -1,0 +1,14 @@
+E:\it\bpz\practice7\RSADigitalSignature\bin\Debug\net8.0-windows\RSADigitalSignature.exe
+E:\it\bpz\practice7\RSADigitalSignature\bin\Debug\net8.0-windows\RSADigitalSignature.deps.json
+E:\it\bpz\practice7\RSADigitalSignature\bin\Debug\net8.0-windows\RSADigitalSignature.runtimeconfig.json
+E:\it\bpz\practice7\RSADigitalSignature\bin\Debug\net8.0-windows\RSADigitalSignature.dll
+E:\it\bpz\practice7\RSADigitalSignature\bin\Debug\net8.0-windows\RSADigitalSignature.pdb
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\RSADigitalSignature.GeneratedMSBuildEditorConfig.editorconfig
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\RSADigitalSignature.AssemblyInfoInputs.cache
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\RSADigitalSignature.AssemblyInfo.cs
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\RSADigitalSignature.csproj.CoreCompileInputs.cache
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\RSADigitalSignature.dll
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\refint\RSADigitalSignature.dll
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\RSADigitalSignature.pdb
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\RSADigitalSignature.genruntimeconfig.cache
+E:\it\bpz\practice7\RSADigitalSignature\obj\Debug\net8.0-windows\ref\RSADigitalSignature.dll
